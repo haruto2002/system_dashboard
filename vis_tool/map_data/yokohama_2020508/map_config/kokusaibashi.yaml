@@ -1,4 +1,4 @@
-path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/kokusaibashi/homography.txt
+path2homography_matrix: homography/kokusaibashi.txt
 original_map_size: 
   - 1000
   - 1000

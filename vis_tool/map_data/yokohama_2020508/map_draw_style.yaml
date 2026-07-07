@@ -10,6 +10,6 @@ box_style:
   line_thickness: 2
 
 map_border_style:
-  draw: flase
+  draw: false
   color: [0, 0, 0]
   thickness: 4

@@ -1,4 +1,4 @@
-path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/worldporter/homography.txt
+path2homography_matrix: homography/worldporter.txt
 original_map_size: 
   - 1600
   - 1600

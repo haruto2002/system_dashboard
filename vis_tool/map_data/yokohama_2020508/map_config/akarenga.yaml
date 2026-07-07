@@ -1,4 +1,4 @@
-path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/akarenga/homography.txt
+path2homography_matrix: homography/akarenga.txt
 original_map_size: 
   - 1500
   - 1500
