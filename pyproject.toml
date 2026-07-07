@@ -1,0 +1,45 @@
+[project]
+name = "realtime"
+version = "2026.04"
+description = "Realtime-Processing-System-for-Crowd-Analysis"
+readme = "README.md"
+requires-python = ">=3.12.8,<3.13"
+authors = [
+  { name = "Haruto Nakayama", email = "nakayama.haruto@aist.go.jp" }
+]
+license = { file = "LICENSE" }
+
+dependencies = [
+  "matplotlib",
+  "lightning",
+  "numpy",
+  "PyYAML",
+  "torch",
+  "torchaudio",
+  "torchmetrics",
+  "torchvision",
+  "hydra-core",
+  "omegaconf",
+  "tqdm",
+  "pydantic",
+  "timm",
+  "pandas",
+  "websockets",
+  "onvif-zeep",
+  "opencv-python",
+  "scipy",
+  "sympy",
+  "cython",
+  "lap",
+  "faster-coco-eval>=1.6.7",
+  "tensorboard",
+  "calflops",
+  "transformers",
+  "cython_bbox",
+  "ultralytics>=8.4.42",
+  "mean-average-precision>=2024.1.5.0",
+  "paho-mqtt"]
+  
+
+[tool.uv]
+package = false

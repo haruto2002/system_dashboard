@@ -1,0 +1,8 @@
+path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/akarenga/homography.txt
+original_map_size: 
+  - 1500
+  - 1500
+all_map_left_top_coor:
+  - 725
+  - 425
+scale: 0.27

@@ -1,0 +1,15 @@
+scale: 5.0
+
+point_style:
+  head_radius: 3
+  trail_radius: 1
+
+box_style:
+  rect_width: 5
+  rect_height: 10
+  line_thickness: 2
+
+map_border_style:
+  draw: flase
+  color: [0, 0, 0]
+  thickness: 4

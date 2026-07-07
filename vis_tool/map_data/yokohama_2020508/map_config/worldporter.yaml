@@ -1,0 +1,8 @@
+path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/worldporter/homography.txt
+original_map_size: 
+  - 1600
+  - 1600
+all_map_left_top_coor:
+  - 275
+  - 260
+scale: 0.09

@@ -1,0 +1,8 @@
+path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/kokusaibashi/homography.txt
+original_map_size: 
+  - 1000
+  - 1000
+all_map_left_top_coor:
+  - 105
+  - 70
+scale: 0.08

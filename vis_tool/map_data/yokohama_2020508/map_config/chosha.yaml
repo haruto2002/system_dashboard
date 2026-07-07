@@ -1,0 +1,8 @@
+path2homography_matrix: /Users/haruto/Desktop/yokohama_202508/venue_data/chosha/homography.txt
+original_map_size: 
+  - 1100
+  - 1100
+all_map_left_top_coor:
+  - 510
+  - 590
+scale: 0.1
